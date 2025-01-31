@@ -46,12 +46,12 @@ Built using:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/react-native-calculator-app.git
+    git clone https://github.com/Pmvita/Calculator-v2.git
     ``` 
 
 2. Install dependencies:
     ```bash
-    cd react-native-calculator-app
+    cd Calculator-v2
     yarn install
     ```
 
